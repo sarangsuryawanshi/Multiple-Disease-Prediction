@@ -1,2 +1,7 @@
-# Multiple-Disease-Prediction
-The Multiple Disease Prediction System is a machine learning-based application that predicts diseases using user symptoms and medical data with a simple and user-friendly interface.
+# multiple-disease-prediction-streamlit-app
+This repository contains the codebase for "Multiple Disease Prediction Streamlit App". The training notebooks &amp; the datasets are also provided in the respective folders. 
+
+app.py is the streamlit app code.
+run the command "**pip install -r requirements.txt**" to install the required dependencies for the streamlit app.
+
+You may need to install additional libraries for running the jupyter notebooks.
